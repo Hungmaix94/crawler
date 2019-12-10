@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eefe3ce6-7ebc-4217-a92d-165b3dfec909" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UlvExZqhpZyrZvY0Gu0vc1EJaK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/xskt/spiders" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/xskt/spiders" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eefe3ce6-7ebc-4217-a92d-165b3dfec909" name="Default Changelist" comment="" />
+      <created>1575943888882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575943888882</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="469" y="134" key="SettingsEditor" timestamp="1575944245268">
+      <screen x="0" y="0" width="1920" height="990" />
+    </state>
+    <state x="469" y="134" key="SettingsEditor/-1344.0.1344.756/0.0.1920.990@0.0.1920.990" timestamp="1575944245268" />
+    <state x="615" y="162" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1575966751294">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="615" y="162" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1344.0.1344.756/0.0.1920.1080@0.0.1920.1080" timestamp="1575966751294" />
+    <state x="626" y="183" width="667" height="714" key="find.popup" timestamp="1575960887507">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="626" y="183" width="667" height="714" key="find.popup/-1344.0.1344.756/0.0.1920.1080@0.0.1920.1080" timestamp="1575960887507" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1575964459839">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/-1344.0.1344.756/0.0.1920.1080@0.0.1920.1080" timestamp="1575964459839" />
+  </component>
+</project>

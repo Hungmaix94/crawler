@@ -24,3 +24,12 @@ class ProductItem(scrapy.Item):
     product_promo = scrapy.Field()
     product_info = scrapy.Field()
     product_discount = scrapy.Field()
+
+class IvivuItem(scrapy.Item):
+    # define the fields for your item here like:
+     title = scrapy.Field()
+     image = scrapy.Field()
+     description = scrapy.Field()
+     date = scrapy.Field()
+     view = scrapy.Field()
+

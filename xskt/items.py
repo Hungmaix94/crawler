@@ -25,7 +25,9 @@ class ProductItem(scrapy.Item):
     product_info = scrapy.Field()
     product_discount = scrapy.Field()
 
+
 class IvivuItem(scrapy.Item):
+
     # define the fields for your item here like:
      title = scrapy.Field()
      image = scrapy.Field()

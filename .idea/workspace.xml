@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="eefe3ce6-7ebc-4217-a92d-165b3dfec909" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/items.json" beforeDir="false" afterPath="$PROJECT_DIR$/items.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/items1.json" beforeDir="false" afterPath="$PROJECT_DIR$/items1.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xskt/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/xskt/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xskt/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/xskt/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xskt/spiders/thegioididong.py" beforeDir="false" afterPath="$PROJECT_DIR$/xskt/spiders/thegioididong.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xskt/spiders/dulich.py" beforeDir="false" afterPath="$PROJECT_DIR$/xskt/spiders/dulich.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +49,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
@@ -55,7 +74,23 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="910" y="391" key="#Inspections" timestamp="1598753161811">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="910" y="391" key="#Inspections/0.0.2560.1440@0.0.2560.1440" timestamp="1598753161811" />
     <state x="0" y="0" width="1920" height="986" key="FileDocumentManager.FileCacheConflict" timestamp="1598439640891">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

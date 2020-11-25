@@ -15,7 +15,6 @@ FEED_FORMAT = 'json'
 SPIDER_MODULES = ['xskt.spiders']
 NEWSPIDER_MODULE = 'xskt.spiders'
 
-
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'xskt (+http://www.yourdomain.com)'
 

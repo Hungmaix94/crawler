@@ -35,3 +35,13 @@ class IvivuItem(scrapy.Item):
      date = scrapy.Field()
      view = scrapy.Field()
 
+class TravelItem(scrapy.Item):
+
+    # define the fields for your item here like:
+     origin_id = scrapy.Field()
+     title = scrapy.Field()
+     image = scrapy.Field()
+     description = scrapy.Field()
+     date = scrapy.Field()
+     link = scrapy.Field()
+
